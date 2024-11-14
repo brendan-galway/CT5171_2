@@ -2,4 +2,4 @@
 
 this is written from Intellij
 
-this is wrttien in github
+this is written in github
